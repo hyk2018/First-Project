@@ -1,7 +1,8 @@
 """
+(Prototype, won't work without certain supporting files from me)
 Visualize data using Matplotlib.
 project
-2018
+2019 updated
 Yankai He
 """
 import numpy as np
